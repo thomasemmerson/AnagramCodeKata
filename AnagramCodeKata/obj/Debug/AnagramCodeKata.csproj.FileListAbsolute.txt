@@ -1,1 +1,6 @@
 c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKata\bin\Debug\AnagramCodeKata.exe.config
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKata\obj\Debug\AnagramCodeKata.csprojResolveAssemblyReference.cache
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKata\bin\Debug\AnagramCodeKata.exe
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKata\bin\Debug\AnagramCodeKata.pdb
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKata\obj\Debug\AnagramCodeKata.exe
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKata\obj\Debug\AnagramCodeKata.pdb

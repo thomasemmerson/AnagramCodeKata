@@ -1,0 +1,7 @@
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKataTests\obj\Debug\AnagramCodeKataTests.csprojResolveAssemblyReference.cache
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKataTests\bin\Debug\AnagramCodeKataTests.dll
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKataTests\bin\Debug\AnagramCodeKataTests.pdb
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKataTests\bin\Debug\AnagramCodeKata.exe
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKataTests\bin\Debug\AnagramCodeKata.pdb
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKataTests\obj\Debug\AnagramCodeKataTests.dll
+c:\users\tom.emmerson\documents\visual studio 2013\Projects\AnagramCodeKata\AnagramCodeKataTests\obj\Debug\AnagramCodeKataTests.pdb
